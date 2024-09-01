@@ -7,6 +7,7 @@ import { authConfig } from './auth';
 
 import App from './App';
 
+import './fonts.css';
 import './index.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
